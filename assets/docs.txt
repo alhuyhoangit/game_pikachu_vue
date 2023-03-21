@@ -1,0 +1,4 @@
+Phân tích project:
+ 1. Xây dựng UI.
+ 2. Xác định những data cần thiết cho app.
+ 3. 
